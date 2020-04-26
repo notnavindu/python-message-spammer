@@ -4,6 +4,8 @@ First of all, I did NOT come up with the idea, someone else did, but meme pages 
 
 ## How to run this shit
 
+Use this at your own risk. I'n not responsible if you lose your girlfriend.
+
 The code is simple, it uses `pyautogui` to automatically simulate keypresses and press enter after each word.
 pyautoguidocs - https://pyautogui.readthedocs.io/en/latest
 
