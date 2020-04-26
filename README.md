@@ -27,6 +27,8 @@ on line 13 of `main.py` change 'bee-short.txt' to 'bee.txt. to switch to the ful
 
 7. I suggest doing this on side-by-side windows to easily CTRL+C the script if something goes wrong
 
+![gif](run.gif)
+
 might work. might not work. i dont really care
 
 [my IG](https://www.instagram.com/notnav.jpg)
