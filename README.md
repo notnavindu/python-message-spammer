@@ -19,7 +19,9 @@ on line 13 of `main.py` change 'bee-short.txt' to 'bee.txt. to switch to the ful
 2. install `pyautogui` with `pip install pyautogui`
 3. Open your friends chat
 4. Run `main.py`. There's a delay of 5 seconds before shit happens. CTRL+C if you don't wanna lose a friend
-5. Before 5 seconds, click on your friends chat text input box thing. and wait. (see the gif)
+5. Before 5 seconds, click on your friends chat text input box thing. and wait. (I'll upload a gif later)
 6. I suggest doing this on side-by-side windows to easily CTRL+C the script if something goes wrong
+
+![gif](run.gif)
 
 might work. might not work. i dont really care
