@@ -15,7 +15,7 @@ on line 13 of `main.py` change 'bee-short.txt' to 'bee.txt. to switch to the ful
 
 1. Clone this repo
 
-2. Open Instagram, Whatsapp Web, Facebook or ANYTHING with a textbox that sends a message when you press the enter key AND the textbox doesn't lose focus when you press enter. (If it does lose focus, you might have to write some code to click on the textbox again) _(Tested on instagram web)_
+2. Open Instagram, Whatsapp Web, Facebook or ANYTHING with a textbox that sends a message when you press the enter key AND the textbox doesn't lose focus when you press enter. (If it does lose focus, you might have to write some code to click on the textbox again) _(Tested on instagram web & Whatsapp Web)_
 
 3. install `pyautogui` with `pip install pyautogui`
 
